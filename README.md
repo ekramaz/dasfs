@@ -1,6 +1,6 @@
 丝瓜电脑网页版
 
-   **跳转地址@@:https://ekramazgithub.io**
+   **跳转地址@@:https://ekramaz.github.io**
 
    还真是有点古怪。
 
